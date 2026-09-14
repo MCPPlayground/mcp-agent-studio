@@ -1,4 +1,4 @@
-# 🚀 Introducing MCP Agent Studio — Connect Any MCP Server, Chat with 40+ AI Models
+# 🚀 Introducing MCP Agent Studio — Connect Any MCP Server, Chat with 60+ AI Models
 
 We're shipping a major new feature on [MCP Playground](https://mcpplaygroundonline.com): **MCP Agent Studio**, a browser-based AI agent that lets you connect your MCP servers and query them in plain English — no code, no local install, no API key setup.
 
